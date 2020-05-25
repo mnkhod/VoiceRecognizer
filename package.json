@@ -3,7 +3,8 @@
     "name": "startbootstrap-business-frontpage",
     "version": "4.2.1",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "build": "node_modules/.bin/gulp build"
     },
     "description": "A simple business HTML landing page built with Bootstrap",
     "keywords": [
